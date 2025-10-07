@@ -1,6 +1,6 @@
 <script>
 	let src = '/tutorial/image.gif';
-    let name = "rick"
+    let name = "Rick"
 </script>
 
-<img {src} alt = A {name} dances/>
+<img {src} alt = {name} dances/>
